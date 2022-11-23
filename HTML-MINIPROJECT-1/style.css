@@ -1,0 +1,71 @@
+
+/* DISCLAIMER: CSS file did not end up working so i had to put it into individual files so i could get this assignment in */
+.headers{
+    font-family: Times;
+    border-bottom: 2px solid black;    
+}
+li{
+    font-size:15px;
+    font-weight:bold;
+}
+.page-title{
+    text-align:center;
+    font-size:48px;
+}
+a:hover{
+    color:purple;
+    
+}
+.content{
+    color:black;
+}
+/*
+body {
+    background-image: url("");
+    background-repeat:no-repeat;
+    color:black;
+    background-color:white;
+    padding-left:200px;
+    padding-right:200px
+}
+.title{
+    text-align:center;
+    font-size:50px;
+    border-bottom: 2px black solid
+}
+.return{
+    align-text:center;
+}
+
+
+this command didnt want to work in CSS but it works in style on a html page so i did that
+*/
+
+
+
+
+/*
+Update 1:
+- title isnt working correctly (index title)
+- fade overlay isnt working correctly (link container formatting)
+
+Update 2:
+- Title centering and size: Fixed (solution: set body styling to index.html file)
+- Fade overlay broken: Kinda Fixed (update: was formatted incorrectly, fading works, text boxes are not centered with image link box. Moved styling from css file to relevant page file)
+
+Update 3:
+- fade in links are fixed (solution: replace divs wih span, eliminate padding elements and transformed items to intended position)
+- title centering fixed
+*/
+/*
+To-do list:
+
+- Finish writing format explanations (shouldnt take long)
+- finish contact page (ET: ~10min)
+- set page and background fonts, images, colors (ET: ~20min)
+- Change rules page to rules video (way more helpful) (ET: ~30sec)
+- 
+-
+
+If i leave this here by accident ignore it its just a problem log
+*/
